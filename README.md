@@ -1,2 +1,2 @@
-# UdemyCourse---Python-for-beginners
-All the code i did when took python for beginners in Udemy
+# BlackJack, TicTacTo and WarCard Games
+All the code - Games i created when learned python for beginners.
